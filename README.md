@@ -7,12 +7,12 @@ Built to go beyond simple responses, CREAS AI aims to assist users in generating
 ---
 
 ## 🚀 Features
-
-* 🧠 Intelligent conversational capabilities
-* 🎨 Creative idea generation (writing, concepts, brainstorming)
-* ⚡ Fast and adaptive responses
-* 🔧 Modular and customizable architecture *(optional depending on your project)*
-* 🌐 Scalable for multiple use cases (personal, business, development)
+* 🧠 Intelligent digital assistant capable of natural understanding and interaction
+* 💡 Development-focused AI to help code, structure, and optimize projects
+* 🎨 Creative idea generation (content, concepts, design, brainstorming)
+* ⚡ Fast and adaptive responses based on user context
+* 🔧 Modular and extensible architecture for customization and integration
+* 🌐 Designed for multiple use cases: personal assistance, development, and professional projects
 
 ---
 
@@ -33,7 +33,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run Creas:
+## Run Creas :
 
 On Windows :
 ```bash
@@ -41,8 +41,20 @@ start run-creas.bat latest
 ```
 
 On Linux and MacOS :
-```
+```bash
 bash run-creas.sh latest
+```
+
+## Run Folklorik :
+
+On Windows :
+```bash
+start run-folklorik dave-latest
+```
+
+On Linux and MacOS :
+```bash
+bash run-folklorik dave-latest
 ```
 
 ---
