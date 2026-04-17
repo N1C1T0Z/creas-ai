@@ -117,6 +117,14 @@ Project Folder > ./Your_Path/
 Ready.
 
 > Ask to Folklorik
+
+
+
+
+
+
+
+                                                  Echap or Q for quit
 ```
 
 ---
