@@ -49,12 +49,12 @@ bash run-creas.sh latest
 
 On Windows :
 ```bash
-start run-folklorik dave-latest
+start run-folklorik.bat dave-latest
 ```
 
 On Linux and MacOS :
 ```bash
-bash run-folklorik dave-latest
+bash run-folklorik.sh dave-latest
 ```
 
 ---
