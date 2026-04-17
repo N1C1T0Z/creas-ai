@@ -78,7 +78,7 @@ Example:
                                ╚██████╗██║  ██║███████╗██║  ██║███████║        ██║  ██║██║
                                 ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝        ╚═╝  ╚═╝╚═╝
                                                                         . site
-                                              ‹ Interface vocale premium ›
+                                              ‹      Vocal Interface     ›
                                              ++++++++++++++++++++++++++++++
 
 
@@ -91,8 +91,8 @@ Example:
 
 
 
-                                     Choisissez un micro avec Haut/Bas puis Entree
-                                                Echap ou Q pour quitter
+                                     
+                                                  Echap or Q for quit
 ```
 
 FOLKLORIK can be used for :
@@ -113,10 +113,10 @@ Example :
 
 
 
-Dossier cible > .
-Prêt.
+Project Folder > ./Your_Path/
+Ready.
 
->
+> Ask to Folklorik
 ```
 
 ---
