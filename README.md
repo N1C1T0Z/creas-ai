@@ -16,6 +16,8 @@ Built to go beyond simple responses, CREAS AI aims to assist users in generating
 
 ---
 
+This project requires Python to run.
+
 ## 📦 Installation
 
 Clone the repository:
@@ -28,14 +30,19 @@ cd creas-ai
 Install dependencies:
 
 ```bash
-# Example (adapt depending on your stack)
-npm install
+pip install -r requirements.txt
 ```
 
-Run the project:
+Run Creas:
 
+On Windows :
 ```bash
-npm start
+start run-creas.bat latest
+```
+
+On Linux and MacOS :
+```
+bash run-creas.sh latest
 ```
 
 ---
@@ -103,7 +110,7 @@ See the `LICENSE` file for details.
 ## 👤 Author
 
 **N1C1T0Z**
-Creator of CREAS AI
+Creator of CREAS AI STUDIO
 
 ---
 
