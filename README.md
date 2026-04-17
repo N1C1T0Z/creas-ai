@@ -61,17 +61,62 @@ bash run-folklorik dave-latest
 
 ## 🛠️ Usage
 
-CREAS AI can be used for:
+CREAS AI can be used for :
 
-* Assisting with coding and development
-* Generating creative content
-* Automating tasks
-* Building intelligent applications
+* open any app
+* open link with browser
+* Provide answers
 
 Example:
 
 ```bash
-> Ask CREAS AI: "Generate a startup idea"
+                                             ++++++++++++++++++++++++++++++
+                                ██████╗██████╗ ███████╗ █████╗ ███████╗         █████╗ ██╗
+                               ██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝        ██╔══██╗██║
+                               ██║     ██████╔╝█████╗  ███████║███████╗        ███████║██║
+                               ██║     ██╔══██╗██╔══╝  ██╔══██║╚════██║        ██╔══██║██║
+                               ╚██████╗██║  ██║███████╗██║  ██║███████║        ██║  ██║██║
+                                ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝        ╚═╝  ╚═╝╚═╝
+                                                                        . site
+                                              ‹ Interface vocale premium ›
+                                             ++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
+                                     Choisissez un micro avec Haut/Bas puis Entree
+                                                Echap ou Q pour quitter
+```
+
+FOLKLORIK can be used for :
+* Code your ideas
+* Manage your project folders
+
+Example :
+```bash
+ ________          __  __        __                      __  __
+|        \        |  \|  \      |  \                    |  \|  \
+| $$$$$$$$______  | $$| $$   __ | $$  ______    ______   \$$| $$   __
+| $$__   /      \ | $$| $$  /  \| $$ /      \  /      \ |  \| $$  /  \
+| $$  \ |  $$$$$$\| $$| $$_/  $$| $$|  $$$$$$\|  $$$$$$\| $$| $$_/  $$
+| $$$$$ | $$  | $$| $$| $$   $$ | $$| $$  | $$| $$   \$$| $$| $$   $$
+| $$    | $$__/ $$| $$| $$$$$$\ | $$| $$__/ $$| $$      | $$| $$$$$$\
+| $$     \$$    $$| $$| $$  \$$\| $$ \$$    $$| $$      | $$| $$  \$$\
+ \$$      \$$$$$$  \$$ \$$   \$$ \$$  \$$$$$$  \$$       \$$ \$$   \$$
+
+
+
+Dossier cible > .
+Prêt.
+
+>
 ```
 
 ---
@@ -84,6 +129,11 @@ creas-ai/
 │── models/
 │── api/
 │── config/
+|
+│── run-creas.bat
+│── run-creas.sh
+│── run-folklorik.bat
+│── run-folklorik.sh
 │── README.md
 │── LICENSE
 ```
